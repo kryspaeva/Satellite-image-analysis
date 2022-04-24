@@ -1,5 +1,7 @@
 # Satellite image analysis using NumPy <br>
 
+**Hint**: it may take a bit long to render a Jupyter Notebook. In that case just upload a page 
+
 Data Source: Satellite Image from WIFIRE Project <br>
 
 
